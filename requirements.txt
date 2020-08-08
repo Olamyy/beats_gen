@@ -1,0 +1,4 @@
+python-dotenv>=0.14.0
+google-api-python-client>=1.10.0
+spotipy>=2.13.0
+spotify_dl
